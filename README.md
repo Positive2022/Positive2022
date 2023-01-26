@@ -4,8 +4,10 @@
 <h3  font-size="20"  align="center">A Discord Bot Developer & Discord Server Moderator</h3>
 
 
-<p  align="center">
-<img  src="animation.gif">
+<p align="center">
+   <a href="https://discord.com/users/713580885194309673">
+      <img src="https://lanyard.cnrad.dev/api/713580885194309673?animated=true" />
+   </a>
 </p>
 
 ### 📱 Contact Me
