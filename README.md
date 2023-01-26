@@ -14,8 +14,8 @@
 
 <p>
 <a  href="https://discord.com/users/713580885194309673"><img src="https://img.shields.io/badge/Discord-Positive%232022-blue?style=for-the-badge"></a>
-<a  href="https://discord.gg/QWKzWpdFZc"><img src="https://img.shields.io/badge/Discord Server-Omniverse Development-blue?style=for-the-badge"></a> 
-<a  href="https://discord.gg/pQX6RKGAJ8"><img src="https://img.shields.io/badge/Discord Server-Sugari Development-blue?style=for-the-badge"></a> 
+<a  href="https://discord.gg/QWKzWpdFZc"><img src="https://img.shields.io/badge/Discord Server-Omniverse-blue?style=for-the-badge"></a> 
+<a  href="https://discord.gg/pQX6RKGAJ8"><img src="https://img.shields.io/badge/Discord Server-Sugari-blue?style=for-the-badge"></a> 
 
 ### 🤖 My Discord Bots
 
