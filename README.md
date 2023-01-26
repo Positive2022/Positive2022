@@ -17,7 +17,7 @@
 
 <a  href="https://discord.com/api/oauth2/authorize?client_id=791249584085139456&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Music%20Bot-Omniverse%201-red?style=for-the-badge"></a>
 <a  href="https://discord.com/api/oauth2/authorize?client_id=794086856056373290&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Music%20Bot-Omniverse%202-blue?style=for-the-badge"></a>
-<a  href="https://discord.com/api/oauth2/authorize?client_id=926542792669409292&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Music%20Bot-Omniverse%203-yellow?style=for-the-badge"></a>
+<a  href="https://discord.com/api/oauth2/authorize?client_id=798198608801431622&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Music%20Bot-Omniverse%203-yellow?style=for-the-badge"></a>
 
 
 <a  href="https://discord.com/api/oauth2/authorize?client_id=798198608801431622&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Astrology%20Bot-Astronomni-purple?style=for-the-badge"></a>
