@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**Positive2022/Positive2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h1  align="center">Hi, I'm Positive#2022 </h1>
 
@@ -25,22 +8,33 @@ Here are some ideas to get you started:
 <img  src="animation.gif">
 </p>
 
+### 📱 Contact Me
+
+<p>
+<a  href="https://discord.gg/QWKzWpdFZc"><img src="https://img.shields.io/badge/Discord-Positive%232022-blue?style=for-the-badge"></a>
+
+### 🤖 My Discord Bots
+
+<a  href="https://discord.com/api/oauth2/authorize?client_id=791249584085139456&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Music%20Bot-Omniverse%201-red?style=for-the-badge"></a>
+<a  href="https://discord.com/api/oauth2/authorize?client_id=794086856056373290&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Music%20Bot-Omniverse%202-blue?style=for-the-badge"></a>
+<a  href="https://discord.com/api/oauth2/authorize?client_id=926542792669409292&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Music%20Bot-Omniverse%203-yellow?style=for-the-badge"></a>
+
+
+<a  href="https://discord.com/api/oauth2/authorize?client_id=798198608801431622&redirect_uri=https%3A%2F%2Fdiscord.gg%2FQWKzWpdFZc&response_type=code&scope=identify%20bot%20applications.commands"><img src="https://img.shields.io/badge/Astrology%20Bot-Astronomni-purple?style=for-the-badge"></a>
+
+<a  href="#"><img src="https://img.shields.io/badge/Music Bot-Coming Soon-gold?style=for-the-badge"></a>
+
+<a  href="https://discord.com/api/oauth2/authorize?client_id=981225490012602378&permissions=17448626192&scope=applications.commands%20bot"><img src="https://img.shields.io/badge/Multipurpose Bot-Sugari-black?style=for-the-badge"></a>
+
 
 ### 👨‍💻 Programming languages
 
-  
 <p>
-
-<a  href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img  alt="HTML"  src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge?logo=html5&logoColor=white"></a>
-
+<a  href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img  alt="HTML"  src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a  href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-
 <a  href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img  alt="Node.js"  src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-
 <a  href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img  alt="Python"  src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-
 <a  href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img  alt="SQL"  src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
 </p>
 
   
@@ -49,34 +43,18 @@ Here are some ideas to get you started:
 
 ### 🗄️ Databases and cloud hosting
 
-  
-
 <p>
-
 <a  href="#"><img  alt="MySQL"  src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-
 <a  href="#"><img  alt="PostgreSQL"  src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-
 <a  href="#"><img  alt="Repl.it"  src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-
 <a  href="#"><img  alt="SQLite"  src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-
 </p>
 
   
 
 ### 💻 Software and tools
 
-  
-
 <p>
-
-<a  href="#"><img  alt="Brave"  src="https://img.shields.io/badge/-Brave-FB542B?style=for-the-badge?logo=brave&logoColor=white"></a>
-
 <a  href="#"><img  alt="Git"  src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge?logo=git&logoColor=white"></a>
-
-<a  href="#"><img  alt="OBS Studio"  src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge?logo=obs-studio&logoColor=white"></a>
-
 <a  href="#"><img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge?logo=visual-studio-code&logoColor=white"></a>
-
 </p>
