@@ -28,8 +28,6 @@
 
 <a  href="#"><img src="https://img.shields.io/badge/Music Bot-Coming Soon-gold?style=for-the-badge"></a>
 
-<a  href="https://discord.com/api/oauth2/authorize?client_id=981225490012602378&permissions=17448626192&scope=applications.commands%20bot"><img src="https://img.shields.io/badge/Multipurpose Bot-Sugari-black?style=for-the-badge"></a>
-
 
 ### 👨‍💻 Programming languages
 
